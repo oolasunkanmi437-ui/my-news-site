@@ -1,0 +1,27 @@
+device-width, initial-scale=1">
+<title>My News Site - Latest News in Nigeria</title>
+<style>
+body{font-family:Arial;margin:0;backgroung:10px;text-align:center}
+nav a{color:#fff;margin:0 10px;text-decoration:none;font-weight:bold}
+.breaking{background:#ff0;padding:10px;text-align:center;font-weight:bold}
+.container{padding:15px}
+.card}
+.card img{width:100%;border-radius:10px}
+.card h2{margin:10px 0 5px}
+.card p{color:#444}
+button{background:#c00;color:#fff;border:0;fff;text-align:center;padding:15px}
+</style>
+</head>
+<body>
+
+<headetion</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">PoliticsNews Source!</div>
+
+<div class="container">
+
+<div class="card">
+<im
