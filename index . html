@@ -1,27 +1,23 @@
-device-width, initial-scale=1">
-<title>My News Site - Latest News in Nigeria</title>
-<style>
-body{font-family:Arial;margin:0;backgroung:10px;text-align:center}
-nav a{color:#fff;margin:0 10px;text-decoration:none;font-weight:bold}
-.breaking{background:#ff0;padding:10px;text-align:center;font-weight:bold}
-.container{padding:15px}
-.card}
-.card img{width:100%;border-radius:10px}
-.card h2{margin:10px 0 5px}
-.card p{color:#444}
-button{background:#c00;color:#fff;border:0;fff;text-align:center;padding:15px}
-</style>
-</head>
-<body>
-
-<headetion</p>
+device-width, initial-scale=1.0">
+<title>Usbey Consulting News</titder{background:#0a2a5e;color:white;padding:20px;text-align:center}
+header h1{margin:0;font-size:28px}
+header p{margin:5px 0 0;color:#f{margin:0 10px;color:#0a2a5e;text-decoration:none;font-weight:bold;font-size:14px}
+.hero{background:white;margin:15px;padding:15px;bors • Stories That Matter</p>
 </header>
 
 <nav>
 <a href="#">Home</a>
-<a href="#">PoliticsNews Source!</div>
+<tainment</a>
+</nav>
 
-<div class="container">
+<div class="hero">
+<span class="badge">BREAKINre you will find the latest school news, sports updates, and inspirlass="badge">SCHOOL NEWS</span>
+<h3>New Term Begins With Big Excitehe Usbey team scored 3 goals to win against their rivals. The whole"badge">ENTERTAINMENT</span>
+<h3>School Talent Show Coming Soon</h3>
+<p>Singing, dancing, drama and comedy! Get ready for the biggest ek.</p>
+</div>
 
 <div class="card">
-<im
+<span class="badge">EDUCATION</span>
+<h3>Top Students Honoured For Hard Work</h3>
+<p>Usbey Consulti
