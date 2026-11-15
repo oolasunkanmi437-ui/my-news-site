@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Usbey Consulting News</title>
+<style>
+body{font-family:Arial;margin:0;background:#f4f4f4}
+header{background:#0a2a5e;color:white;padding:20px;text-align:center}
+nav{background:#ffcc00;padding:10px;text-align:center;font-weight:bold}
+.card{background:white;margin:15px;padding:15px;border-radius:10px}
+.card h2{color:#0a2a5e}
+.badge{background:red;color:white;padding:3px 8px;border-radius:5px;font-size:12px}
+footer{background:#0a2a5e;color:white;text-align:center;padding:15px}
+</style>
+</head>
+<body>
+<header><h1>USBEY CONSULTING NEWS</h1><p>Truth • Excellence • Beauty</p></header>
+<nav>HOME | NEWS | SPORTS | BUSINESS</nav>
+<div class="card"><span class="badge">BREAKING</span><h2>Usbey Launches New School News Website</h2><p>Welcome to Usbey Consulting News - your trusted source for school news, sports, and stories that matter.</p></div>
+<div class="card"><h2>School Sports Day A Big Success</h2><p>Students showed great teamwork and spirit in this year's sports day event.</p></div>
+<div class="card"><h2>Top Students Honoured</h2><p>Excellence was celebrated as top students received awards for hard work and discipline.</p></div>
+<footer>© 2026 Usbey Consulting News</footer>
+</body>
+</html>
